@@ -1,0 +1,5 @@
+{
+  "name": "WeChat Smart Layout Tool",
+  "description": "An intelligent content formatting tool for WeChat creators that semantically analyzes articles to suggest image placements, generates matching AI artwork, and provides stylish templates for one-click publishing.",
+  "requestFramePermissions": []
+}
